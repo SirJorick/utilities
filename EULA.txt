@@ -1,0 +1,46 @@
+END USER LICENSE AGREEMENT (EULA)
+
+IMPORTANT: PLEASE READ THIS END USER LICENSE AGREEMENT ("EULA") CAREFULLY BEFORE USING THE SOFTWARE.
+
+This EULA is a legal agreement between you ("Licensee") and JRAG Tech ("Licensor"), located at Borol 2nd. Balagtas, 3016 Bulacan, Philippines. By installing, copying, or otherwise using the software known as "Meralco.py Billing Application" (the "Software"), you agree to be bound by the terms of this EULA. If you do not agree to these terms, do not install or use the Software.
+
+1. License Grant
+   JRAG Tech grants you a non-exclusive, non-transferable license to use the Software solely for your personal or internal business purposes, subject to the terms of this EULA.
+
+2. Restrictions
+   You may not:
+   - Modify, adapt, translate, or create derivative works of the Software.
+   - Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code.
+   - Distribute, sell, lease, or sublicense the Software to any third party.
+   - Remove or alter any proprietary notices, labels, or markings on the Software.
+
+3. Ownership
+   The Software is licensed, not sold. All rights, title, and interest in and to the Software remain with JRAG Tech. No rights, express or implied, are granted to you except as expressly set forth in this EULA.
+
+4. Updates and Maintenance
+   JRAG Tech may, from time to time, provide updates, enhancements, or modifications to the Software. Your continued use of the Software after such changes constitutes your acceptance of the modified terms.
+
+5. Termination
+   This EULA is effective until terminated. Your rights under this EULA will automatically terminate if you fail to comply with any term(s) herein. Upon termination, you must immediately cease all use of the Software and destroy all copies in your possession.
+
+6. Disclaimer of Warranties
+   THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. JRAG TECH DOES NOT WARRANT THAT THE SOFTWARE WILL MEET YOUR REQUIREMENTS OR BE UNINTERRUPTED OR ERROR-FREE.
+
+7. Limitation of Liability
+   IN NO EVENT SHALL JRAG TECH BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. JRAG TECH’S TOTAL LIABILITY SHALL NOT EXCEED THE AMOUNT PAID FOR THE SOFTWARE, IF ANY.
+
+8. Indemnification
+   You agree to indemnify, defend, and hold harmless JRAG Tech and its affiliates, officers, employees, and agents from any claims, damages, liabilities, costs, or expenses (including reasonable attorneys' fees) arising out of or related to your use of the Software or any breach of this EULA.
+
+9. Governing Law
+   This EULA shall be governed by and construed in accordance with the laws of the Philippines. Any disputes arising out of or relating to this EULA shall be subject to the exclusive jurisdiction of the courts located in the Philippines.
+
+10. Contact Information
+    If you have any questions regarding this EULA, please contact:
+
+    JRAG Tech  
+    Address: Borol 2nd. Balagtas, 3016 Bulacan, Philippines  
+    Phone: 09673071950  
+    Website: https://github.com/SirJorick
+
+BY INSTALLING, COPYING, OR USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS EULA, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS.
